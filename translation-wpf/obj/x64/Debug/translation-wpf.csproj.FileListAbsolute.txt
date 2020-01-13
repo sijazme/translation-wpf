@@ -1,0 +1,16 @@
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\translation-wpf.exe.config
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\translation-wpf.exe
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\translation-wpf.pdb
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\objd\amd64\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\MainWindow.baml
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\App.g.cs
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf_MarkupCompile.cache
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf.g.resources
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf.csproj.CopyComplete
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf.exe
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf.pdb
+C:\Users\ijazs\source\repos\Transcribe\cognitive-services-speech-sdk\samples\csharp\dotnet-windows\translation-wpf\translation-wpf\obj\x64\Debug\translation-wpf.csprojAssemblyReference.cache
